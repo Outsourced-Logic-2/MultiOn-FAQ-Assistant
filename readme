@@ -1,1 +1,9 @@
+Welcome to the MultiOn FAQ Assistant! This project is designed to help streamline customer support for MultiOn by providing a comprehensive FAQ. The FAQ Assistant uses data from Discord and Freshdesk to identify common issues, questions, and solutions, and presents them in a clear, user-friendly manner.
 
+The MultiOn FAQ Assistant leverages scraped messages from Discord and Freshdesk to generate relevant questions and answers. The goal is to improve user experience by providing quick and accurate responses to common queries. The FAQ is organized to help users navigate easily and find the information they need without having to contact support.
+
+Features
+* Automated FAQ Generation: Automatically generates FAQs from Discord and Freshdesk data.
+* User-Friendly Interface: Organizes questions and answers in a clear and concise manner.
+* Easy Navigation: Groups similar questions together to help users find answers quickly.
+* Developer-Friendly: Designed with developers in mind, ensuring the FAQ is easy to integrate and extend.
